@@ -1,0 +1,97 @@
+-injars 'D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Adonis\AppData\Local\Android\sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.example.xyzreader.utils.XyzreaderApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.xyzreader.ui.activity.MainActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.ui.activity.ArticleListActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.ui.activity.ArticleDetailActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.ScrollingActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.ui.activity.AboutActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.ui.activity.AddArticleActivity {
+    <init>();
+}
+
+-keep class com.example.xyzreader.data.UpdaterService {
+    <init>();
+}
+
+-keep class com.example.xyzreader.data.ItemsProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xyzreader.ui.fragment.ArticleListFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_articlelist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingBottom="8dp"
+        android:paddingLeft="@dimen/list_side_margin"
+        android:paddingRight="@dimen/list_side_margin"
+        android:scrollbarStyle="outsideOverlay" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="@dimen/fab_layout_margin"
+        android:elevation="@dimen/fab_elevation"
+        android:src="@mipmap/ic_add_white_24dp"
+        app:fabSize="normal"
+        app:pressedTranslationZ="@dimen/fab_pressedTranslateionz" />
+
+</FrameLayout>

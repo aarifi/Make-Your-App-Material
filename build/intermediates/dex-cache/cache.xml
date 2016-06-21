@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.2_5e38ee6b5c984591d2c343e4c1932909e9a4469f.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.2_c4e85044701f3587dc00b72307eee05108a2ea0c.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_b3ed69617af2c5283a61872e3a4094888d3adea1.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_48d9f3faaea1bd12d0cae0e45530a7dc345b678b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.2_1a0b5382664de296485e4c8e8c2916e69e8feaa1.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_5128477a7e335722bbc24a6196ff7fbbee4c9d64.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_71b130cdc1dfac995ccd7696bc3b0e3d3f1de3ac.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.2_608c2e5c24bbc45486e352ad8a577dcb86220d30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\retrofit-1.9.0_261d354c6dca87c271e115dbd0b91dda61cc2791.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\glide-3.7.0_6edff7ae573998118db1af1fb0276055261e304b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.2_d95c4443bf822d7c80f10062bd4234b173f52ccb.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_b7f0c80b4d0f6337b3bc008688150c4a1b7afb00.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_d91163bcf96bc19dfb746d9bfc8825f91e26e69a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_ceb87a4c17e456489dfe0dca3d641acd4ef1be19.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.4.0_86e47cfd02f31bcff798207144afaf3061a720d4.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.2_32bbbc422da49640690d833c27221dfd5d488a10.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b89c6071a3fc4edfd39d019cb8f0080803023d09.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.2_a599e56eeacd85048e65c6e2c3f7fabd77b0bc42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha1_db44c422d45a553b597174491aba698077f50448.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.2_ae1d494f0758af90da833b5f3b8511a043e2ff66.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.2_c6f225841a39a0f1e624093f2ef299cf6ce37026.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.2_b94a6f38084a3bad6e2274aee2d04846aeed353e.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.2_0941b59ca98adf09698b55296fb320d7ae3ed443.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\gson-2.3.1_e045c0e2ebe3bf94e86f0fcb13ee4ccaea64a4f0.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.2_f2ac4e01659a6c4fdfd6b39aa7d4cdba4f4cb320.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.2_2c4307f7b8de7d14a041fddd6a095cfadda5db43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_e1504739a197c6b840a4ca065bdccbae6e9d934e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-2.7.0_8859caba76a7959bf0168cff55fd242086961b1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c7c4cc1f7ec433166adfcc107b5403fffda448d2.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.2_eec9ab8df6c700dec99439d2f18a9e738c3b5067.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_b2c77f27c1f6d314ef6f68743bacbb25c1d0e564.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.2_56af25e4237e465a8db0a0c01ba9a51a1994cc21.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_7119720eefbd9cc72a221c654dc56eaa134efc0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\butterknife-7.0.1_d1b7c8e519cfc89a17b391af622209269d860c1d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.2_a0d8d5e87c0bf46f9cca5db8e9906f851c14517e.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.2_d7cff0133f5741f01fd2ee247762042ad86bca2d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.2_294fe0734c48fe6b203335cabc1655f8f965c9c0.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.2_7f5718e0b4e46db2eadb3358bd75af61fd25f781.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_5f44f47b13f09dd118728af7042d4f726439835d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_76ca30a36e3a6770c41f3bda3bea684280175794.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.2_d9077090d2cca3f0385ced58957eee3fba1594f4.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.2_f72737873201e5a803f4b84da6689d963f60a887.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.2_43a65b7b507bf9e64bbf8b5751eefa29096fbc04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adonis\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_abe549d0a9aa4f52a7f23ded3c9d48aa0f599ecc.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.2_fe8486f402e9600f3bb43ea1fb2cc84732e631eb.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.2_ba34f0ea7dcb483360863a08e2f09395fd5eefef.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.2_f3cf734ea51ca8941c28f52e64823752047155e0.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.2_33126188652f440e62e259694edd8b3f3e30b01d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_c13759b3b12c9e163b0686476974df6f9b724ad7.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6877d00257a9170695d2628b35cf203339f5bb3a.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.2_8c0fb2d4b9135d962fed5294f6f1019a3dc984df.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.2_077f4cf5b5f4a70b3021bba7353181d6aba91944.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_ebaac3e811818ea067d09a40c3484e9e55f644ec.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.2_ffffe15874fc7a6ac0ccd2223b540dc84ffa3f36.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_29f5827710895ff99dd65599266e04f19e1a2954.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_516929d6ba00fcfc64ebc23b1a30d32ffd540021.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.2_f2a1cf37153d17f3bf3505c39d7311aa165b6c1e.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.2_116fef51317607799b3b68d62e0fc22f558da792.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.2_305f7efc8af68550c02f9438ebe10bad3d3bd0d3.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d55aa3f4cdeb679d9ca0e9289ffed6d4f7b722b0.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.2_ad3681e548e5377c93dc57ce4c0f6c4f719d52cd.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.2_d53594f5a9a16efa5e3456ddd1cb580509632e3d.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha1_38ddae25b7c606faf61f757652100a72c0c0aa39.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.2_05926ffaf808b7f1892055d28879f7a2ba1ad81b.jar" />
+    </item>
+    <item
+        jar="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="D:\Projects\Nanodegree\SourceCode\Make Your App Material\Code\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.2_216cdc974c4150b9713dc0c484ff31380ec94362.jar" />
+    </item>
+
+</items>

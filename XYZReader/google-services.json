@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658825643728",
+    "firebase_url": "https://xyz-reader.firebaseio.com",
+    "project_id": "xyz-reader",
+    "storage_bucket": "xyz-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658825643728:android:607f512de71f1ad2",
+        "android_client_info": {
+          "package_name": "com.example.xyzreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658825643728-452jo35grcsojrd7t3nktfbdcju02j2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAEQLdMfknDi07MQQTVCO8u7HzQ3tDUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
