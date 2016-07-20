@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="17"
+        android:minSdkVersion="19"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -39,35 +39,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.xyzreader.ui.activity.ArticleListActivity"
-            android:label="@string/app_name" >
-            />
-        </activity>
-        <activity
-            android:name="com.example.xyzreader.ui.activity.ArticleDetailActivity"
-            android:parentActivityName="com.example.xyzreader.ui.activity.ArticleListActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-
-                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
-            </intent-filter>
-
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ui.activity.ArticleListActivity" />
-        </activity>
-        <activity
-            android:name="com.example.xyzreader.ScrollingActivity"
-            android:parentActivityName="com.example.xyzreader.ui.activity.ArticleDetailActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.xyzreader.ui.activity.ArticleDetailActivity" />
-        </activity>
         <activity android:name="com.example.xyzreader.ui.activity.AboutActivity" />
-        <activity android:name="com.example.xyzreader.ui.activity.AddArticleActivity" />
+        <activity android:name="com.example.xyzreader.ui.activity.AddArticleActivity" >
+        </activity>
 
         <service
             android:name="com.example.xyzreader.data.UpdaterService"
@@ -77,6 +51,26 @@
             android:name="com.example.xyzreader.data.ItemsProvider"
             android:authorities="com.example.xyzreader"
             android:exported="false" />
+
+        <activity
+            android:name="com.example.xyzreader.ui.activity.ArticleDActivity"
+            android:label="@string/title_activity_article_d"
+            android:parentActivityName="com.example.xyzreader.ui.activity.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.xyzreader.ui.activity.MainActivity" />
+        </activity>
+        <activity android:name="com.example.xyzreader.ui.activity.ArticleDetailActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+                <data android:mimeType="multipart/*" />
+                <data android:mimeType="text/*" />
+            </intent-filter>
+        </activity>
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
@@ -100,11 +94,6 @@
             android:authorities="com.example.xyzreader.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
-
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
@@ -135,6 +124,11 @@
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <!--
  FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"

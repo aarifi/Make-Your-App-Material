@@ -1580,9 +1580,30 @@
                     "startLine": 210,
                     "startColumn": 4,
                     "startOffset": 15836,
-                    "endLine": 219,
+                    "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 16344
+                    "endOffset": 15894
+                },
+                "from": {
+                    "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 77
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15899,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16407
                 },
                 "from": {
                     "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
@@ -1598,12 +1619,12 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16349,
-                    "endLine": 229,
+                    "startOffset": 16412,
+                    "endLine": 232,
                     "endColumn": 12,
-                    "endOffset": 16869
+                    "endOffset": 16932
                 },
                 "from": {
                     "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
@@ -1619,12 +1640,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 16874,
-                    "endLine": 239,
+                    "startOffset": 16937,
+                    "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 17549
+                    "endOffset": 17612
                 },
                 "from": {
                     "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
@@ -1640,11 +1661,11 @@
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 17554,
+                    "startOffset": 17617,
                     "endColumn": 56,
-                    "endOffset": 17606
+                    "endOffset": 17669
                 },
                 "from": {
                     "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",
@@ -1659,11 +1680,11 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 17611,
+                    "startOffset": 17674,
                     "endColumn": 57,
-                    "endOffset": 17664
+                    "endOffset": 17727
                 },
                 "from": {
                     "file": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-v21\\values-v21.xml",

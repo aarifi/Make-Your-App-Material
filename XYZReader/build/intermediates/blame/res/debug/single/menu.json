@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\menu_article_d.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\menu\\menu_article_d.xml"
+    },
+    {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },

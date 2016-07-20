@@ -4,8 +4,16 @@
         "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article_d.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\layout\\fragment_article_d.xml"
+    },
+    {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_d.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\layout\\activity_article_d.xml"
     },
     {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -38,6 +46,10 @@
     {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article_detail.xml",
         "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\layout\\fragment_article_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article_d2.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\layout\\fragment_article_d2.xml"
     },
     {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
@@ -110,6 +122,10 @@
     {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\content_article_d.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\layout\\content_article_d.xml"
     },
     {
         "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",

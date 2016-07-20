@@ -3,5 +3,10 @@
     <item
         android:id="@+id/action_item_minicards"
         android:checkable="true"
+        android:checked="true"
         android:title="@string/action_minicards" />
+
+    <item
+        android:id="@+id/action_item_refresh"
+        android:title="@string/action_refresh" />
 </menu>

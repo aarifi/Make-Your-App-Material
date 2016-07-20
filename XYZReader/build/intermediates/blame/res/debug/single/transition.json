@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\grid_exit.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\transition\\grid_exit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\shared_element_transition.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\transition\\shared_element_transition.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\move.xml",
+        "source": "D:\\Projects\\Nanodegree\\SourceCode\\Make Your App Material\\Code\\xyzreader\\XYZReader\\src\\main\\res\\transition\\move.xml"
+    }
+]

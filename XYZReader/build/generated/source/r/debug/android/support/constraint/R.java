@@ -40,8 +40,8 @@ public final class R {
 		public static final int relativePercent = 0x7f0100b9;
 	}
 	public static final class id {
-		public static final int horizontal = 0x7f0d002c;
-		public static final int vertical = 0x7f0d002d;
+		public static final int horizontal = 0x7f0e002c;
+		public static final int vertical = 0x7f0e002d;
 	}
 	public static final class styleable {
 		public static final int[] ConstraintLayout_Layout = { 0x7f0100b6, 0x7f0100b7, 0x7f0100b8, 0x7f0100b9, 0x7f0100ba, 0x7f0100bb, 0x7f0100bc, 0x7f0100bd, 0x7f0100be, 0x7f0100bf, 0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3, 0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7, 0x7f0100c8, 0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1, 0x7f0100d2, 0x7f0100d3 };
