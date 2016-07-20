@@ -16,6 +16,7 @@ import static com.example.xyzreader.utils.Constants.FIREBASE_FOLLDER_PATH_ARTICL
 public class FirebaseDatabaseXyzReader {
 
     public FirebaseApp app = FirebaseApp.getInstance();
+
     public FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
 
     public static FirebaseDatabaseXyzReader firebaseDatabaseInstance;
