@@ -1,10 +1,13 @@
 package com.example.xyzreader.ui.activity;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
+import android.support.v4.graphics.drawable.RoundedBitmapDrawable;
+import android.support.v4.graphics.drawable.RoundedBitmapDrawableFactory;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -12,7 +15,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.target.BitmapImageViewTarget;
 import com.example.xyzreader.R;
 import com.example.xyzreader.ui.fragment.ArticleListFragment;
 import com.google.firebase.analytics.FirebaseAnalytics;
@@ -28,6 +35,8 @@ public class MainActivity extends AppCompatActivity
 
     @Bind(R.id.nav_view)
     NavigationView navigationView;
+
+    ImageView imageView_account;
 
     private FirebaseAnalytics mFirebaseAnalytics;
 
@@ -45,6 +54,16 @@ public class MainActivity extends AppCompatActivity
                 payload);
 
 
+        Glide.with(this).load("https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/util%2FIMAG1304_1.jpg?alt=media&token=a9d46db4-1292-424f-829b-2e620f4bfc90")
+                .asBitmap().centerCrop().into(new BitmapImageViewTarget(imageView_account) {
+            @Override
+            protected void setResource(Bitmap resource) {
+                RoundedBitmapDrawable circularBitmapDrawable =
+                        RoundedBitmapDrawableFactory.create(getResources(), resource);
+                circularBitmapDrawable.setCircular(true);
+                imageView_account.setImageDrawable(circularBitmapDrawable);
+            }
+        });
     }
 
     public void setupNavigationView() {
@@ -58,6 +77,9 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
         onNavigationItemSelected(navigationView.getMenu().getItem(0));
         navigationView.getMenu().getItem(0).setChecked(true);
+
+        View header = navigationView.getHeaderView(0);
+        imageView_account = (ImageView) header.findViewById(R.id.navigation_drawer_user_account_picture_profile);
     }
 
     @Override

@@ -17,5 +17,10 @@
     <dimen name="imageView_list_item_maxheight">180dp</dimen>
     <dimen name="fab_layout_margin">16dp</dimen>
     <dimen name="fab_pressedTranslateionz">12dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
 
+    <dimen name="controle_16dp">16dp</dimen>
+
+    <dimen name="offset_y">400dp</dimen>
+<dimen name="nav_drawer_profile_image_size">70dp</dimen>
 </resources>

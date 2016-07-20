@@ -105,6 +105,8 @@
     <string name="about">About</string>
     <string name="home">Home</string>
     <string name="other">Other</string>
+    <string name="lorem_ipsum">Sugar plum sugar plum gummies donut jelly powder. Icing muffin cheesecake liquorice wafer bonbon. Bonbon tootsie roll halvah. Lollipop macaroon bear claw chocolate cake. Chocolate bar gummi bears candy cheesecake icing oat cake. Cake chocolate cake liquorice pie. Donut halvah lollipop. Bear claw lollipop sweet roll cookie dragée dragée donut candy. Cheesecake liquorice marzipan dragée muffin chocolate dessert jujubes. Cupcake ice cream tootsie roll bonbon croissant gingerbread ice cream danish. Jelly beans donut jujubes sugar plum. Tootsie roll tiramisu chupa chups dragée cheesecake brownie chocolate bar chocolate bar icing. Apple pie cake carrot cake gingerbread candy canes</string>
+    <string name="article_detail_more_info">More Info</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -118,5 +120,10 @@
     <string name="body_article_string">Body</string>
     <string name="title_details_string">10 Tips for Hipster Tea Parties</string>
     <string name="test_text"><![CDATA[Paroxysm of global economics <a href=\'http://www.google.com\'>Google Search</a> event take root and flourish, realm of the galaxies take root and flourish light years, circumnavigated Tunguska event Vangelis. Realm of the galaxies as a patch of light extraplanetary?<br><br>The carbon in our apple pies hundreds of thousands of brilliant syntheses cosmic ocean Hypatia explorations across the centuries take root and flourish muse about with pretty stories for which there\'s little good evidence. Tunguska event birth billions upon billions venture tesseract billions upon billions! Muse about dream of the mind\'s eye! Radio telescope. The only home we\'ve ever known with pretty stories for which there\'s little good evidence! Hydrogen atoms cosmic fugue brain is the seed of intelligence the only home we\'ve ever known? Inconspicuous motes of rock and gas of brilliant syntheses.<br><br>Network of wormholes across the centuries Jean-François Champollion hearts of the stars? Vastness is bearable only through love, a still more glorious dawn awaits worldlets the carbon in our apple pies worldlets citizens of distant epochs corpus callosum quasar ship of the imagination. Colonies something incredible is waiting to be known from which we spring billions upon billions, paroxysm of global death with pretty stories for which there\'s little good evidence, intelligent beings astonishment.<br><br>Brain is the seed of intelligence, billions upon billions, corpus callosum trillion stirred by starlight consciousness cosmic fugue dispassionate extraterrestrial observer.<br><br>Bits of moving fluff. Muse about Apollonius of Perga worldlets the only home we\'ve ever known dispassionate extraterrestrial observer with pretty stories for which there\'s little good evidence venture at the edge of forever, laws of physics muse about.<br><br>Photos courtesy of <a href=\'https://unsplash.com/\'>Unsplash.com</a>.]]></string>
+    <string name="title_activity_article_d">ArticleDActivity</string>
+    <string name="title_about">Name Of Project</string>
+    <string name="github_link">Github link</string>
+    <string name="transition_photo_article">transition_photo_article</string>
+    <string name="no_article_found">No article found</string>
 
 </resources>

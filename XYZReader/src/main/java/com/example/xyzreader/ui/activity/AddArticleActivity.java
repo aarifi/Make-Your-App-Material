@@ -1,9 +1,11 @@
 package com.example.xyzreader.ui.activity;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -22,7 +24,10 @@ import com.example.xyzreader.R;
 import com.example.xyzreader.data.FirebaseDatabaseXyzReader;
 import com.example.xyzreader.model.ListResponsData;
 import com.example.xyzreader.model.ListResponsDataAbout;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.ValueEventListener;
@@ -53,7 +58,7 @@ public class AddArticleActivity extends AppCompatActivity {
     private static int RESULT_LOAD_IMG = 1;
     private Uri selectedImage;
     private float aspect_ratio;
-
+    private ProgressDialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -87,7 +92,6 @@ public class AddArticleActivity extends AppCompatActivity {
 
             }
         });
-saveAboutData();
 
     }
 
@@ -144,7 +148,7 @@ saveAboutData();
 
     public void uploadImageToDataStorage() {
 
-
+        showProgresDialog();
         final StorageReference photoRef = FirebaseDatabaseXyzReader.getFirebaseDatabaseInstance().storageRef.child(selectedImage.getLastPathSegment());
         // Upload file to Firebase Storage
         photoRef.putFile(selectedImage)
@@ -168,6 +172,7 @@ saveAboutData();
     }
 
     public void saveData(String imageUrl) {
+
         ListResponsData listResponsData = new ListResponsData();
         listResponsData.setAuthor(input_author.getText().toString());
         listResponsData.setTitle(input_title.getText().toString());
@@ -176,7 +181,20 @@ saveAboutData();
         listResponsData.setPhoto(imageUrl);
         listResponsData.setThumb(imageUrl);
         listResponsData.setAspect_ratio(String.valueOf(aspect_ratio));
-        FirebaseDatabaseXyzReader.getFirebaseDatabaseInstance().articleRef.push().setValue(listResponsData);
+        FirebaseDatabaseXyzReader.getFirebaseDatabaseInstance().articleRef.push().setValue(listResponsData).addOnCompleteListener(new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                progressDialog.dismiss();
+                finish();
+            }
+        }).addOnFailureListener(new OnFailureListener() {
+            @Override
+            public void onFailure(@NonNull Exception e) {
+                progressDialog.dismiss();
+                Toast.makeText(getApplicationContext(), "Please try again", Toast.LENGTH_SHORT).show();
+            }
+        });
+
     }
 
     public void saveAboutData() {
@@ -188,5 +206,12 @@ saveAboutData();
         listResponsDataAbout.setPhoto("");
         FirebaseDatabaseXyzReader.getFirebaseDatabaseInstance().abouteRef.push().setValue(listResponsDataAbout);
 
+    }
+
+    public void showProgresDialog() {
+        progressDialog = new ProgressDialog(this, android.support.v7.appcompat.R.style.Base_Theme_AppCompat_Light_Dialog);
+        progressDialog.setIndeterminate(true);
+        progressDialog.setMessage("Please wait...");
+        progressDialog.show();
     }
 }

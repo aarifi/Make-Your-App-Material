@@ -21,9 +21,12 @@ public class FirebaseDatabaseXyzReader {
     public static FirebaseDatabaseXyzReader firebaseDatabaseInstance;
     //Firebase database
     public DatabaseReference mRootRef = com.google.firebase.database.FirebaseDatabase.getInstance().getReference();
+
     public DatabaseReference articleRef = mRootRef.child("Article");
 
     public DatabaseReference abouteRef = mRootRef.child("About");
+
+    public DatabaseReference isAddDataFromDropBox = mRootRef.child("Utils");
 
     public FirebaseStorage storage = FirebaseStorage.getInstance(app);
     public FirebaseAuth auth = FirebaseAuth.getInstance(app);
