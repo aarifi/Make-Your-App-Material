@@ -17,6 +17,11 @@
     <item android:title="@string/other">
         <menu>
             <item
+                android:id="@+id/nav_settings"
+                android:icon="@mipmap/ic_settings_black_24dp"
+                android:title="@string/settings" />
+
+            <item
                 android:id="@+id/nav_about"
                 android:icon="@android:drawable/ic_dialog_info"
                 android:title="@string/about" />

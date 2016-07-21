@@ -125,5 +125,6 @@
     <string name="github_link">Github link</string>
     <string name="transition_photo_article">transition_photo_article</string>
     <string name="no_article_found">No article found</string>
+    <string name="settings">Settings</string>
 
 </resources>
