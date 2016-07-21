@@ -14,11 +14,9 @@ Through this project, you will:
 
 
 ##Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KSHssTpmPmg/.jpg)](https://www.youtube.com/watch?v=KSHssTpmPmg)
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KSHssTpmPmg/0.jpg)](http://www.youtube.com/watch?v=KSHssTpmPmg)
 
 ##Screnshoots
-
 
 ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=b619dd2a-ce5e-434a-963f-cb305b142c80) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=a0be46a7-adeb-4211-b13f-d564c8c3e84a)
 
