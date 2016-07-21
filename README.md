@@ -11,3 +11,22 @@ Through this project, you will:
 2. Apply Material Design guidelines to an mobile application.
 3. Separate an interface into surfaces.
 4. Effectively use transitions and motion.
+
+#Firebase Integration 
+
+1. Create an account
+2. Install Firebase
+3. Using Gradle 
+4. Read & Write to your Firebase Database
+5. Authenticate Your Users
+6. Secure Your Data
+
+##Youtube
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KSHssTpmPmg/0.jpg)](http://www.youtube.com/watch?v=KSHssTpmPmg)
+
+##Screnshoots
+
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=b619dd2a-ce5e-434a-963f-cb305b142c80) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=a0be46a7-adeb-4211-b13f-d564c8c3e84a)
+
+
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F3.png?alt=media&token=232c54dd-7bda-4ba3-8c9e-87bf3afcd949) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F4.png?alt=media&token=876df102-9179-45d2-ad1f-a9057181b538)
