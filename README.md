@@ -15,7 +15,7 @@ Through this project, you will:
 
 ##Screnshoots
 
-![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=2e280e01-60bc-4507-9cb8-8fbb981a1dd0 https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=191a398d-ab45-4272-9a72-99eb556bde5b)
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=2e280e01-60bc-4507-9cb8-8fbb981a1dd0)
 
 ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=191a398d-ab45-4272-9a72-99eb556bde5b)
 
