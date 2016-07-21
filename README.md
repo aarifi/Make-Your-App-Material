@@ -15,7 +15,7 @@ Through this project, you will:
 
 ##Video
 
-![ScreenShot](https://www.youtube.com/watch?v=KSHssTpmPmg&feature=youtu.be)
+![ScreenShot](https://www.youtube.com/watch?v=KSHssTpmPmg)
 
 ##Screnshoots
 
