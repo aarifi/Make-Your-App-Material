@@ -12,6 +12,14 @@ Through this project, you will:
 3. Separate an interface into surfaces.
 4. Effectively use transitions and motion.
 
+#Set Up Firebase
+
+1.Create an account
+2.Install Firebase
+3.Using Gradle 
+4.Read & Write to your Firebase Database
+5.Authenticate Your Users
+6.Secure Your Data
 
 ##Youtube
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KSHssTpmPmg/0.jpg)](http://www.youtube.com/watch?v=KSHssTpmPmg)
