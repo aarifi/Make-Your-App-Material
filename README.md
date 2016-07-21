@@ -16,7 +16,7 @@ Through this project, you will:
 ##Screnshoots
 
 
-![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=2e280e01-60bc-4507-9cb8-8fbb981a1dd0) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=191a398d-ab45-4272-9a72-99eb556bde5b)
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=b619dd2a-ce5e-434a-963f-cb305b142c80) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F2.png?alt=media&token=a0be46a7-adeb-4211-b13f-d564c8c3e84a)
 
 
-![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F3.png?alt=media&token=0df08201-b3fb-4f33-b37f-ecf4b41b2acf) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F4.png?alt=media&token=00eeac5f-f1eb-42e1-b43d-f2d3c6c79c1a)
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F3.png?alt=media&token=232c54dd-7bda-4ba3-8c9e-87bf3afcd949) | ![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F4.png?alt=media&token=876df102-9179-45d2-ad1f-a9057181b538)
