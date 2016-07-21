@@ -15,4 +15,4 @@ Through this project, you will:
 
 ##Screnshoots
 
-![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=ad7da5c4-9fc1-4bcd-b0ff-52dd46aefdb4)
+![ScreenShot](https://firebasestorage.googleapis.com/v0/b/xyz-reader.appspot.com/o/ScreenShot%2F1.png?alt=media&token=2e280e01-60bc-4507-9cb8-8fbb981a1dd0)
