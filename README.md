@@ -13,7 +13,7 @@ Through this project, you will:
 4. Effectively use transitions and motion.
 
 
-##Video
+##Youtube
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KSHssTpmPmg/0.jpg)](http://www.youtube.com/watch?v=KSHssTpmPmg)
 
 ##Screnshoots
