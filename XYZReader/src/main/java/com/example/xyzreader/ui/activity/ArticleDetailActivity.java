@@ -3,6 +3,7 @@ package com.example.xyzreader.ui.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.AppBarLayout;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -20,6 +21,7 @@ import java.util.List;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class ArticleDetailActivity extends AppCompatActivity {
 
@@ -33,6 +35,8 @@ public class ArticleDetailActivity extends AppCompatActivity {
     Toolbar toolbar;
     @Bind(R.id.appbar_activity_article_detail)
     AppBarLayout appbar_activity_article_detail;
+    @Bind(R.id.fab_share)
+    FloatingActionButton fab_share;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -79,10 +83,7 @@ public class ArticleDetailActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        if (id == R.id.action_share) {
-            int position = viewpager_articledetails.getCurrentItem();
-            createShareIntent(articleList.get(position));
-        }
+
         return super.onOptionsItemSelected(item);
     }
 
@@ -96,5 +97,11 @@ public class ArticleDetailActivity extends AppCompatActivity {
         shareIntent.putExtra(android.content.Intent.EXTRA_STREAM, listResponsData.getPhoto());
 
         startActivityForResult(Intent.createChooser(shareIntent, listResponsData.getTitle()), SHARED_RESULT);
+    }
+
+    @OnClick(R.id.fab_share)
+    public void setOnClick_fab_share() {
+        int position = viewpager_articledetails.getCurrentItem();
+        createShareIntent(articleList.get(position));
     }
 }
