@@ -14,7 +14,7 @@ Through this project, you will:
 
 
 ##Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KSHssTpmPmg/)](https://www.youtube.com/watch?v=KSHssTpmPmg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KSHssTpmPmg/.jpg)](https://www.youtube.com/watch?v=KSHssTpmPmg)
 
 
 ##Screnshoots
