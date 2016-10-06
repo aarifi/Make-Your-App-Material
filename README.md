@@ -28,5 +28,4 @@ Through this project, you will:
 
 ![ScreenShot](https://github.com/aarifi/Make-Your-App-Material/blob/master/XYZReader/ScreenShot/1.png?raw=true) | ![ScreenShot](https://github.com/aarifi/Make-Your-App-Material/blob/master/XYZReader/ScreenShot/2.png?raw=true)
 
-
 ![ScreenShot](https://github.com/aarifi/Make-Your-App-Material/blob/master/XYZReader/ScreenShot/3.png?raw=true) | ![ScreenShot](https://github.com/aarifi/Make-Your-App-Material/blob/master/XYZReader/ScreenShot/4.png?raw=true)  ![ScreenShot](https://github.com/aarifi/Make-Your-App-Material/blob/master/XYZReader/ScreenShot/5.png?raw=true)
